@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAlexander14
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ...SOC Anaylist 
+- 🌱 I’m currently learning ...SOC Analyist Stuff
 - 💞️ I’m looking to collaborate on ...Anything
 - 📫 How to reach me ...Via Github
 - 😄 Pronouns: ...He/Him
